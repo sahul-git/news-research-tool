@@ -1,0 +1,15 @@
+venv/
+env/
+
+pycache/
+*.pyc
+
+.env
+secrets.toml
+
+faiss_index_store/
+*.pkl
+*.faiss
+
+.DS_Store
+Thumbs.db
